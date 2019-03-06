@@ -1,3 +1,17 @@
 body {
     background-color: aqua;
 }
+
+.dinosaur {
+    border: 2px solid burlywood;
+    padding: 10px;
+    background-image: url(https://timedotcom.files.wordpress.com/2018/06/dinosaurs-jurassic-world-fact-check-3.jpg)
+}
+
+p {
+    font-size: 32px;
+}
+
+h3 {
+    color: red;
+}
