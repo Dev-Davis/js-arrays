@@ -1,17 +1,25 @@
-body {
-    background-color: aqua;
+.container {
+    background-color: rgb(108, 167, 206);
 }
 
 .dinosaur {
-    border: 2px solid burlywood;
+    border: 1px solid rgb(70, 51, 46);
     padding: 10px;
+    margin: 4px;
     background-image: url(https://timedotcom.files.wordpress.com/2018/06/dinosaurs-jurassic-world-fact-check-3.jpg)
 }
 
 p {
-    font-size: 32px;
+    font-size: 18px;
 }
 
-h3 {
+h5 {
     color: red;
+}
+
+.assignment 
+{
+    border: 1px solid rgb(70, 51, 46);
+    padding: 8px;
+    margin: 10px;
 }
